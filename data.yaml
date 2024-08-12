@@ -1,0 +1,6 @@
+train: C:\Users\18135\Desktop\Pothole Detection\train
+val: C:\Users\18135\Desktop\Pothole Detection\valid
+
+nc: 1
+names: ['pothole']
+
